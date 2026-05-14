@@ -1,4 +1,4 @@
-# profile-title: base64:U0FTIFZQTg==
+# profile-title: base64:8J+MmFNBUyBWUE4g8J+Mkg==
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=107374182400; expire=1748044800
 # support-url: https://t.me/SaS_proj3ct
