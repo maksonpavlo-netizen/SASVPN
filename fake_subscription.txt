@@ -1,0 +1,8 @@
+# profile-title: base64:0JbRg9C50YLQtSDQmtCw0LvQuw==
+# profile-update-interval: 1
+# subscription-userinfo: upload=0; download=0; total=0; expire=0
+# support-url: https://t.me/SaS_proj3ct
+# profile-web-page-url: https://t.me/SaS_proj3ct
+
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?type=tcp&security=none#Данил лох
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?type=tcp&security=none#Соня и Вова лохи
